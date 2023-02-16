@@ -1,0 +1,23 @@
+Title: "Predicting Physical Activity Levels: The Impact of Age, Technology Use, Environmental, and Social Factors"
+
+Research Question: How accurately can physical activity levels be predicted using machine learning algorithms, and to what extent do age, technology use, environmental factors, and social factors impact the accuracy of these predictions?
+
+Objectives:
+
+To develop machine learning models for predicting physical activity levels based on individual-level data from physical activity monitoring devices, including measures of steps taken, distance traveled, and active minutes.
+
+To examine the impact of age on the accuracy of physical activity level predictions, controlling for other relevant factors.
+
+To investigate the influence of technology use on physical activity level predictions, by examining how the use of wearable devices, mobile apps, or other digital tools affects the accuracy of the prediction models.
+
+To explore the role of environmental factors, such as access to parks and recreational facilities, on physical activity level predictions, while controlling for other relevant factors.
+
+To investigate the impact of social factors, such as social support or social norms, on the accuracy of physical activity level predictions.
+
+Methodology:
+
+This study will use a cross-sectional design to collect data from a diverse sample of participants who wear physical activity monitoring devices for a period of at least one week. In addition to physical activity monitoring data, participants will complete surveys that capture information about their age, technology use, environmental factors, and social factors that may influence physical activity behavior. Machine learning algorithms will be used to develop prediction models based on the collected data, and statistical analyses will be conducted to examine the influence of the various factors on the accuracy of these models.
+
+Expected Results:
+
+The study's findings could contribute to our understanding of the factors that influence physical activity behavior and the accuracy of physical activity level predictions. The results could also have practical implications for the development of personalized physical activity interventions that take into account an individual's age, technology use, environmental factors, and social factors. Ultimately, the study's findings could help to promote physical activity behavior change and improve health outcomes in diverse populations.
